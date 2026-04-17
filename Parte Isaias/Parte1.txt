@@ -1,0 +1,17 @@
+Criterios:
+
+Evolución temporal de modelos LLM
+Participación de organizaciones desarrolladoras
+
+Justificación de los criterios
+Se eligieron estos criterios porque permiten analizar el desarrollo de los LLM desde una perspectiva histórica y competitiva. 
+La evolución temporal permite observar en qué periodos aumenta la aparición de modelos relevantes, mientras que la participación por organización permite identificar qué empresas concentran mayor protagonismo en ese proceso.
+
+Conclusiones
+
+Entre 2018 y 2025 se observa un aumento en la presencia de modelos de lenguaje notables, lo que muestra una aceleración del desarrollo de LLMs en los últimos años.
+Google y OpenAI destacan como las organizaciones con mayor peso en el gráfico, aunque otras como Anthropic, Meta y Microsoft también aumentan su presencia en los años más recientes.
+El gráfico sugiere que el desarrollo de LLMs no ha sido uniforme, sino que se concentra especialmente desde 2022 en adelante, periodo en el que más organizaciones comienzan a competir de manera visible.
+
+Fuente: https://epoch.ai/data/ai-models?view=table&tab=notable
+Grafico: Streamgraph
