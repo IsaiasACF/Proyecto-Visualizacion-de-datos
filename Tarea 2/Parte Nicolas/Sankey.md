@@ -25,4 +25,4 @@ identificación inmediata de qué tareas capturan la mayor cantidad de atención
 **Fuente:** Datos recopilados de la *Encuesta sobre uso de herramientas LLM - Tarea 2 Visualización de datos*, UTFSM, Mayo 2026:
 * https://docs.google.com/forms/d/e/1FAIpQLSdFZ46xKvJyotwesRccWVLClm3HGvVm5qQVnOe1rl9P-zitiQ/viewform
 
-**Gráfico:** Diagrama de Sankey.
+**Gráfico:** Diagrama de Sankey: https://public.flourish.studio/visualisation/28964533/
