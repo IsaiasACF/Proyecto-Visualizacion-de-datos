@@ -1,5 +1,7 @@
 # Mapa de concentración geográfica de modelos LLM notables
 
+Visualizacion: https://public.flourish.studio/visualisation/29355748/
+
 ## Descripción cualitativa del dataset
 
 El dataset utilizado corresponde a la base **Notable AI Models** de Epoch AI, filtrada para considerar modelos asociados al dominio de lenguaje. Esta base reúne modelos relevantes dentro del desarrollo de la inteligencia artificial e incluye información como el nombre del modelo, organización desarrolladora, fecha de publicación, dominio y país asociado a la organización.
