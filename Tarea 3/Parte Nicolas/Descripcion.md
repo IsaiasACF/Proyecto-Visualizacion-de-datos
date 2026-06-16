@@ -1,7 +1,7 @@
 
 # Mapa de infraestructura física de cómputo para IA
 
-Visualizacion: https://public.flourish.studio/visualisation/29369282/
+Visualizacion: https://datawrapper.dwcdn.net/fl7nJ/1/
 
 ## Descripción cualitativa del dataset
 
