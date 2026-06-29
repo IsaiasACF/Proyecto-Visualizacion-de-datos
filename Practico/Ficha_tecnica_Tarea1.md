@@ -30,7 +30,3 @@ La marca es el **área (banda de flujo)**. Cada banda representa una organizaci�
 
 ## Lectura
 El desarrollo de LLMs se acelera desde 2022; Google y OpenAI concentran el mayor peso relativo, con Anthropic, Meta y Microsoft creciendo en el período reciente.
-
-
-## Lectura
-La infraestructura de cómputo está fuertemente concentrada: EE.UU. reúne gran parte de los campus y los de mayor escala; Europa aparece un escalón abajo y China de forma parcial (datos estimados). La capacidad la controla un grupo reducido de operadores.
