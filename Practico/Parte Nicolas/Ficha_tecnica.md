@@ -2,6 +2,8 @@
 
 **Visualización:** ¿Qué tan capaces son los LLMs? Rendimiento por benchmark (2026)
 
+**Enlace:** https://public.flourish.studio/visualisation/29528338/
+
 **Autor:** Nicolás González
 
 **Tipo de gráfico:** Mapa de calor (heatmap / matriz)
@@ -9,6 +11,7 @@
 **Herramienta:** Flourish (plantilla *Numeric heatmap*)
 
 **Fuente de datos:** Artificial Analysis — https://artificialanalysis.ai (Consultado - junio 2026)
+
 
 ---
 
