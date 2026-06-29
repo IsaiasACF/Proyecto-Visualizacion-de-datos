@@ -10,7 +10,7 @@
 
 **Fuente de datos:** Epoch AI — Notable AI Models. https://epoch.ai/data/ai-models?view=table&tab=notable
 
---
+---
 
 ## Marca
 La marca es el **área (banda de flujo)**. Cada banda representa una organización desarrolladora, y su forma fluye a lo largo del tiempo apilándose en torno a un eje central (rasgo propio del streamgraph).
